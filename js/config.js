@@ -22,7 +22,7 @@ const SITE_CONFIG = {
 
 // 自定义内置API站点配置
 const API_SITES = {
-    testSource: {
+    taohua: {
         api: 'https://thzy1.me/api.php/provide/vod/',
         name: '桃花采集',
         adult: true
